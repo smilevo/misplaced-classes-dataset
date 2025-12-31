@@ -1,0 +1,799 @@
+class_id,class_name,current_package,is_misplaced,confidence,reasoning,suggested_package,evidence,method_used,analysis_time,analysis_timestamp
+BasicCallTest,BasicCallTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CompletableFutureAndroidTest,CompletableFutureAndroidTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+DefaultMethodsAndroidTest,DefaultMethodsAndroidTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+OptionalConverterFactoryAndroidTest,OptionalConverterFactoryAndroidTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+UriAndroidTest,UriAndroidTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+AnnotationArraySubject,AnnotationArraySubject,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallAdapterTest,CallAdapterTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+A,A,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallTest,CallTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CompletableFutureCallAdapterFactoryTest,CompletableFutureCallAdapterFactoryTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CompletableFutureTest,CompletableFutureTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+DefaultCallAdapterFactoryTest,DefaultCallAdapterFactoryTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+EmptyCall,EmptyCall,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DefaultMethodsTest,DefaultMethodsTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HttpExceptionTest,HttpExceptionTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+InvocationTest,InvocationTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ExampleSub,ExampleSub,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Java8DefaultStaticMethodsInValidationTest,Java8DefaultStaticMethodsInValidationTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MethodParameterReflectionTest,MethodParameterReflectionTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+file,file,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ExampleWithParameterNames,ExampleWithParameterNames,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+NonFatalError,NonFatalError,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+OptionalConverterFactoryTest,OptionalConverterFactoryTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+RequestFactoryBuilderTest,RequestFactoryBuilderTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RequestFactoryTest,RequestFactoryTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+NonNull,NonNull,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Foo,Foo,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Foo,Foo,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Foo,Foo,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Foo,Foo,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResponseTest,ResponseTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RetrofitTest,RetrofitTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallMethod,CallMethod,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+FutureMethod,FutureMethod,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Extending,Extending,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+TypeParam,TypeParam,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ExtendingTypeParam,ExtendingTypeParam,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+StringService,StringService,retrofit2,True,0.9000000000000001,Class name 'StringService' suggests service functionality,service,Name matches service pattern; Methods: validateEagerlyDisabledByDefault,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+UnresolvableResponseType,UnresolvableResponseType,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+UnresolvableParameterType,UnresolvableParameterType,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+VoidService,VoidService,retrofit2,True,0.9000000000000001,Class name 'VoidService' suggests service functionality,service,Name matches service pattern; Methods: validateEagerlyDisabledByDefault,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+Annotated,Annotated,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Foo,Foo,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MutableParameters,MutableParameters,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+of,of,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyCallAdapterFactory,MyCallAdapterFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GreetingCallAdapterFactory,GreetingCallAdapterFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyCallAdapterFactory,MyCallAdapterFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyConverterFactory,MyConverterFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyConverterFactory,MyConverterFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyConverterFactory,MyConverterFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyConverterFactory,MyConverterFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyConverterFactory,MyConverterFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+KotlinRequestFactoryTest,KotlinRequestFactoryTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Example,Example,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+KotlinSuspendRawTest,KotlinSuspendRawTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+KotlinUnitTest,KotlinUnitTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+RoboVmPlatformTest,RoboVmPlatformTest,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AndroidMainExecutor,AndroidMainExecutor,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BuiltInConverters,BuiltInConverters,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+VoidResponseBodyConverter,VoidResponseBodyConverter,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+UnitResponseBodyConverter,UnitResponseBodyConverter,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RequestBodyConverter,RequestBodyConverter,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+StreamingResponseBodyConverter,StreamingResponseBodyConverter,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BufferingResponseBodyConverter,BufferingResponseBodyConverter,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ToStringConverter,ToStringConverter,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BuiltInFactories,BuiltInFactories,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Java8,Java8,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Call,Call,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallAdapter,CallAdapter,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Factory,Factory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+methods,methods,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+type,type,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Callback,Callback,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CompletableFutureCallAdapterFactory,CompletableFutureCallAdapterFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BodyCallAdapter,BodyCallAdapter,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BodyCallback,BodyCallback,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResponseCallAdapter,ResponseCallAdapter,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResponseCallback,ResponseCallback,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallCancelCompletableFuture,CallCancelCompletableFuture,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Converter,Converter,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Factory,Factory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+type,type,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DefaultCallAdapterFactory,DefaultCallAdapterFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ExecutorCallbackCall,ExecutorCallbackCall,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+is,is,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+has,has,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DefaultMethodSupport,DefaultMethodSupport,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HttpException,HttpException,retrofit2,True,0.6000000000000001,Class name 'HttpException' suggests exception functionality,exception,Name matches exception pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+method,method,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HttpServiceMethod,HttpServiceMethod,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+method,method,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallAdapted,CallAdapted,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SuspendForResponse,SuspendForResponse,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SuspendForBody,SuspendForBody,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+method,method,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+method,method,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+captures,captures,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+InvocationLogger,InvocationLogger,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Invocation,Invocation,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+OkHttpCall,OkHttpCall,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+NoContentResponseBody,NoContentResponseBody,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ExceptionCatchingResponseBody,ExceptionCatchingResponseBody,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+OptionalConverterFactory,OptionalConverterFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+OptionalConverter,OptionalConverter,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GitHubService,GitHubService,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ParameterHandler,ParameterHandler,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RelativeUrl,RelativeUrl,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Header,Header,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Path,Path,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Query,Query,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+QueryName,QueryName,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+QueryMap,QueryMap,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HeaderMap,HeaderMap,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Headers,Headers,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Field,Field,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+FieldMap,FieldMap,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Part,Part,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RawPart,RawPart,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+PartMap,PartMap,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Body,Body,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Tag,Tag,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Platform,Platform,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Reflection,Reflection,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Java8,Java8,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Android24,Android24,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RequestBuilder,RequestBuilder,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ContentTypeOverridingRequestBody,ContentTypeOverridingRequestBody,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RequestFactory,RequestFactory,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+method,method,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Builder,Builder,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Response,Response,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+to,to,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+to,to,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Retrofit,Retrofit,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CategoryService,CategoryService,retrofit2,True,0.8,Class name 'CategoryService' suggests service functionality; Contains service-typical methods: validateServiceInterface,service,Name matches service pattern; Methods: validateServiceInterface,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+proxy,proxy,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+of,of,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Builder,Builder,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ServiceMethod,ServiceMethod,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SkipCallbackExecutor,SkipCallbackExecutor,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+conforms,conforms,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SkipCallbackExecutorImpl,SkipCallbackExecutorImpl,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Utils,Utils,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+of,of,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+implemented,implemented,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+of,of,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ParameterizedTypeImpl,ParameterizedTypeImpl,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GenericArrayTypeImpl,GenericArrayTypeImpl,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+supports,supports,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+WildcardTypeImpl,WildcardTypeImpl,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Body,Body,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DELETE,DELETE,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Field,Field,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+FieldMap,FieldMap,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+FormUrlEncoded,FormUrlEncoded,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GET,GET,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HEAD,HEAD,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Header,Header,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HeaderMap,HeaderMap,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Headers,Headers,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.http,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.http,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+HTTP,HTTP,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Multipart,Multipart,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+OPTIONS,OPTIONS,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+methods,methods,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Part,Part,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+PartMap,PartMap,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+PATCH,PATCH,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Path,Path,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+POST,POST,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+PUT,PUT,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Query,Query,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+QueryMap,QueryMap,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+QueryName,QueryName,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Streaming,Streaming,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Tag,Tag,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Url,Url,retrofit2.http,False,0.95,Class appears to be correctly placed,retrofit2.http,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+EverythingIsNonNull,EverythingIsNonNull,retrofit2.internal,False,0.95,Class appears to be correctly placed,retrofit2.internal,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DefaultMethodSupport,DefaultMethodSupport,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DefaultMethodSupport,DefaultMethodSupport,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+TestingUtils,TestingUtils,retrofit2,False,0.95,Class appears to be correctly placed,retrofit2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DelegatingCallAdapterFactory,DelegatingCallAdapterFactory,retrofit2.helpers,False,0.95,Class appears to be correctly placed,retrofit2.helpers,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+file,file,retrofit2.helpers,False,0.95,Class appears to be correctly placed,retrofit2.helpers,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ExampleWithoutParameterNames,ExampleWithoutParameterNames,retrofit2.helpers,False,0.95,Class appears to be correctly placed,retrofit2.helpers,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+NonMatchingCallAdapterFactory,NonMatchingCallAdapterFactory,retrofit2.helpers,False,0.95,Class appears to be correctly placed,retrofit2.helpers,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+NonMatchingConverterFactory,NonMatchingConverterFactory,retrofit2.helpers,False,0.95,Class appears to be correctly placed,retrofit2.helpers,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+NullObjectConverterFactory,NullObjectConverterFactory,retrofit2.helpers,False,0.95,Class appears to be correctly placed,retrofit2.helpers,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ObjectInstanceConverterFactory,ObjectInstanceConverterFactory,retrofit2.helpers,False,0.95,Class appears to be correctly placed,retrofit2.helpers,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ToStringConverterFactory,ToStringConverterFactory,retrofit2.helpers,False,0.95,Class appears to be correctly placed,retrofit2.helpers,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+to,to,retrofit2.adapter.guava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyService,MyService,retrofit2.adapter.guava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GuavaCallAdapterFactory,GuavaCallAdapterFactory,retrofit2.adapter.guava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BodyCallAdapter,BodyCallAdapter,retrofit2.adapter.guava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResponseCallAdapter,ResponseCallAdapter,retrofit2.adapter.guava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallCancelListenableFuture,CallCancelListenableFuture,retrofit2.adapter.guava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HttpException,HttpException,retrofit2.adapter.guava,True,0.6000000000000001,Class name 'HttpException' suggests exception functionality,exception,Name matches exception pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+GuavaCallAdapterFactoryTest,GuavaCallAdapterFactoryTest,retrofit2.adapter.guava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ListenableFutureTest,ListenableFutureTest,retrofit2.adapter.guava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.guava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+StringConverterFactory,StringConverterFactory,retrofit2.adapter.guava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HttpException,HttpException,retrofit2.adapter.java8,True,0.6000000000000001,Class name 'HttpException' suggests exception functionality,exception,Name matches exception pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+to,to,retrofit2.adapter.java8,False,0.95,Class appears to be correctly placed,retrofit2.adapter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyService,MyService,retrofit2.adapter.java8,False,0.95,Class appears to be correctly placed,retrofit2.adapter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Java8CallAdapterFactory,Java8CallAdapterFactory,retrofit2.adapter.java8,False,0.95,Class appears to be correctly placed,retrofit2.adapter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BodyCallAdapter,BodyCallAdapter,retrofit2.adapter.java8,False,0.95,Class appears to be correctly placed,retrofit2.adapter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResponseCallAdapter,ResponseCallAdapter,retrofit2.adapter.java8,False,0.95,Class appears to be correctly placed,retrofit2.adapter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CompletableFutureTest,CompletableFutureTest,retrofit2.adapter.java8,False,0.95,Class appears to be correctly placed,retrofit2.adapter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.java8,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+Java8CallAdapterFactoryTest,Java8CallAdapterFactoryTest,retrofit2.adapter.java8,False,0.95,Class appears to be correctly placed,retrofit2.adapter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+StringConverterFactory,StringConverterFactory,retrofit2.adapter.java8,False,0.95,Class appears to be correctly placed,retrofit2.adapter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BodyOnSubscribe,BodyOnSubscribe,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BodySubscriber,BodySubscriber,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallArbiter,CallArbiter,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallEnqueueOnSubscribe,CallEnqueueOnSubscribe,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallExecuteOnSubscribe,CallExecuteOnSubscribe,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HttpException,HttpException,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'HttpException' suggests exception functionality,exception,Name matches exception pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+Result,Result,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResultOnSubscribe,ResultOnSubscribe,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResultSubscriber,ResultSubscriber,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJavaCallAdapter,RxJavaCallAdapter,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+to,to,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyService,MyService,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJavaCallAdapterFactory,RxJavaCallAdapterFactory,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AsyncTest,AsyncTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CancelDisposeTest,CancelDisposeTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CompletableTest,CompletableTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CompletableThrowingSafeSubscriberTest,CompletableThrowingSafeSubscriberTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingCompletableObserver,ForwardingCompletableObserver,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CompletableThrowingTest,CompletableThrowingTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingCompletableObserver,ForwardingCompletableObserver,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CompletableWithSchedulerTest,CompletableWithSchedulerTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingSubscriber,ForwardingSubscriber,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ObservableTest,ObservableTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ObservableThrowingSafeSubscriberTest,ObservableThrowingSafeSubscriberTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ObservableThrowingTest,ObservableThrowingTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ObservableWithSchedulerTest,ObservableWithSchedulerTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+RecordingSubscriber,RecordingSubscriber,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Rule,Rule,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResultTest,ResultTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJavaCallAdapterFactoryTest,RxJavaCallAdapterFactoryTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJavaPluginsResetRule,RxJavaPluginsResetRule,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SingleTest,SingleTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+SingleThrowingTest,SingleThrowingTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingObserver,ForwardingObserver,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SingleWithSchedulerTest,SingleWithSchedulerTest,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+StringConverterFactory,StringConverterFactory,retrofit2.adapter.rxjava,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BodyObservable,BodyObservable,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BodyObserver,BodyObserver,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallEnqueueObservable,CallEnqueueObservable,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallCallback,CallCallback,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallExecuteObservable,CallExecuteObservable,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallDisposable,CallDisposable,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HttpException,HttpException,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'HttpException' suggests exception functionality,exception,Name matches exception pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+Result,Result,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResultObservable,ResultObservable,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResultObserver,ResultObserver,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJava2CallAdapter,RxJava2CallAdapter,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+to,to,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyService,MyService,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJava2CallAdapterFactory,RxJava2CallAdapterFactory,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AsyncTest,AsyncTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CancelDisposeTest,CancelDisposeTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CancelDisposeTestSync,CancelDisposeTestSync,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CompletableTest,CompletableTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CompletableThrowingTest,CompletableThrowingTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingCompletableObserver,ForwardingCompletableObserver,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CompletableWithSchedulerTest,CompletableWithSchedulerTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+FlowableTest,FlowableTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+FlowableThrowingTest,FlowableThrowingTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingSubscriber,ForwardingSubscriber,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+FlowableWithSchedulerTest,FlowableWithSchedulerTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+MaybeTest,MaybeTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+MaybeThrowingTest,MaybeThrowingTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingObserver,ForwardingObserver,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MaybeWithSchedulerTest,MaybeWithSchedulerTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ObservableTest,ObservableTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ObservableThrowingTest,ObservableThrowingTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingObserver,ForwardingObserver,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ObservableWithSchedulerTest,ObservableWithSchedulerTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+RecordingCompletableObserver,RecordingCompletableObserver,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Rule,Rule,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RecordingMaybeObserver,RecordingMaybeObserver,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Rule,Rule,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RecordingObserver,RecordingObserver,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Rule,Rule,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RecordingSingleObserver,RecordingSingleObserver,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Rule,Rule,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RecordingSubscriber,RecordingSubscriber,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Rule,Rule,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResultTest,ResultTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJava2CallAdapterFactoryTest,RxJava2CallAdapterFactoryTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJavaPluginsResetRule,RxJavaPluginsResetRule,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SingleTest,SingleTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+SingleThrowingTest,SingleThrowingTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingObserver,ForwardingObserver,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SingleWithSchedulerTest,SingleWithSchedulerTest,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava2,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+StringConverterFactory,StringConverterFactory,retrofit2.adapter.rxjava2,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava2,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BodyObservable,BodyObservable,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BodyObserver,BodyObserver,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallEnqueueObservable,CallEnqueueObservable,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallCallback,CallCallback,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallExecuteObservable,CallExecuteObservable,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallDisposable,CallDisposable,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HttpException,HttpException,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'HttpException' suggests exception functionality,exception,Name matches exception pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+Result,Result,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResultObservable,ResultObservable,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResultObserver,ResultObserver,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJava3CallAdapter,RxJava3CallAdapter,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+to,to,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyService,MyService,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJava3CallAdapterFactory,RxJava3CallAdapterFactory,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AsyncTest,AsyncTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CancelDisposeTest,CancelDisposeTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CancelDisposeTestSync,CancelDisposeTestSync,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CompletableTest,CompletableTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+CompletableThrowingTest,CompletableThrowingTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingCompletableObserver,ForwardingCompletableObserver,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CompletableWithSchedulerTest,CompletableWithSchedulerTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+FlowableTest,FlowableTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+FlowableThrowingTest,FlowableThrowingTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingSubscriber,ForwardingSubscriber,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+FlowableWithSchedulerTest,FlowableWithSchedulerTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+MaybeTest,MaybeTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+MaybeThrowingTest,MaybeThrowingTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingObserver,ForwardingObserver,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MaybeWithSchedulerTest,MaybeWithSchedulerTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ObservableTest,ObservableTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ObservableThrowingTest,ObservableThrowingTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingObserver,ForwardingObserver,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ObservableWithSchedulerTest,ObservableWithSchedulerTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+RecordingCompletableObserver,RecordingCompletableObserver,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Rule,Rule,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RecordingMaybeObserver,RecordingMaybeObserver,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Rule,Rule,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RecordingObserver,RecordingObserver,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Rule,Rule,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RecordingSingleObserver,RecordingSingleObserver,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Rule,Rule,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RecordingSubscriber,RecordingSubscriber,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Rule,Rule,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResultTest,ResultTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJava3CallAdapterFactoryTest,RxJava3CallAdapterFactoryTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+RxJavaPluginsResetRule,RxJavaPluginsResetRule,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SingleTest,SingleTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+SingleThrowingTest,SingleThrowingTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ForwardingObserver,ForwardingObserver,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SingleWithSchedulerTest,SingleWithSchedulerTest,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.rxjava3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+StringConverterFactory,StringConverterFactory,retrofit2.adapter.rxjava3,False,0.95,Class appears to be correctly placed,retrofit2.adapter.rxjava3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BodyCallAdapter,BodyCallAdapter,retrofit2.adapter.scala,False,0.95,Class appears to be correctly placed,retrofit2.adapter.scala,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ResponseCallAdapter,ResponseCallAdapter,retrofit2.adapter.scala,False,0.95,Class appears to be correctly placed,retrofit2.adapter.scala,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+to,to,retrofit2.adapter.scala,False,0.95,Class appears to be correctly placed,retrofit2.adapter.scala,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyService,MyService,retrofit2.adapter.scala,False,0.95,Class appears to be correctly placed,retrofit2.adapter.scala,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ScalaCallAdapterFactory,ScalaCallAdapterFactory,retrofit2.adapter.scala,False,0.95,Class appears to be correctly placed,retrofit2.adapter.scala,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+FutureTest,FutureTest,retrofit2.adapter.scala,False,0.95,Class appears to be correctly placed,retrofit2.adapter.scala,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.adapter.scala,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ScalaCallAdapterFactoryTest,ScalaCallAdapterFactoryTest,retrofit2.adapter.scala,False,0.95,Class appears to be correctly placed,retrofit2.adapter.scala,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+StringConverterFactory,StringConverterFactory,retrofit2.adapter.scala,False,0.95,Class appears to be correctly placed,retrofit2.adapter.scala,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GsonConverterFactory,GsonConverterFactory,retrofit2.converter.gson,False,0.95,Class appears to be correctly placed,retrofit2.converter.gson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GsonRequestBodyConverter,GsonRequestBodyConverter,retrofit2.converter.gson,False,0.95,Class appears to be correctly placed,retrofit2.converter.gson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GsonResponseBodyConverter,GsonResponseBodyConverter,retrofit2.converter.gson,False,0.95,Class appears to be correctly placed,retrofit2.converter.gson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GsonStreamingRequestBody,GsonStreamingRequestBody,retrofit2.converter.gson,False,0.95,Class appears to be correctly placed,retrofit2.converter.gson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GsonConverterFactoryTest,GsonConverterFactoryTest,retrofit2.converter.gson,False,0.95,Class appears to be correctly placed,retrofit2.converter.gson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AnInterface,AnInterface,retrofit2.converter.gson,False,0.95,Class appears to be correctly placed,retrofit2.converter.gson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AnImplementation,AnImplementation,retrofit2.converter.gson,False,0.95,Class appears to be correctly placed,retrofit2.converter.gson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ErroringValue,ErroringValue,retrofit2.converter.gson,False,0.95,Class appears to be correctly placed,retrofit2.converter.gson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AnInterfaceAdapter,AnInterfaceAdapter,retrofit2.converter.gson,False,0.95,Class appears to be correctly placed,retrofit2.converter.gson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.converter.gson,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+GuavaOptionalConverterFactory,GuavaOptionalConverterFactory,retrofit.converter.guava,False,0.95,Class appears to be correctly placed,retrofit.converter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+OptionalConverter,OptionalConverter,retrofit.converter.guava,False,0.95,Class appears to be correctly placed,retrofit.converter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AlwaysNullConverterFactory,AlwaysNullConverterFactory,retrofit.converter.guava,False,0.95,Class appears to be correctly placed,retrofit.converter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GuavaOptionalConverterFactoryTest,GuavaOptionalConverterFactoryTest,retrofit.converter.guava,False,0.95,Class appears to be correctly placed,retrofit.converter.guava,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit.converter.guava,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+JacksonConverterFactory,JacksonConverterFactory,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JacksonRequestBodyConverter,JacksonRequestBodyConverter,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JacksonResponseBodyConverter,JacksonResponseBodyConverter,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JacksonStreamingRequestBody,JacksonStreamingRequestBody,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JacksonCborConverterFactoryTest,JacksonCborConverterFactoryTest,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+IntWrapper,IntWrapper,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.converter.jackson,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+JacksonConverterFactoryTest,JacksonConverterFactoryTest,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AnInterface,AnInterface,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AnImplementation,AnImplementation,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AnInterfaceSerializer,AnInterfaceSerializer,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AnInterfaceDeserializer,AnInterfaceDeserializer,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ErroringValue,ErroringValue,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ErroringValueSerializer,ErroringValueSerializer,retrofit2.converter.jackson,False,0.95,Class appears to be correctly placed,retrofit2.converter.jackson,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.converter.jackson,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+Java8OptionalConverterFactory,Java8OptionalConverterFactory,retrofit.converter.java8,False,0.95,Class appears to be correctly placed,retrofit.converter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+OptionalConverter,OptionalConverter,retrofit.converter.java8,False,0.95,Class appears to be correctly placed,retrofit.converter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AlwaysNullConverterFactory,AlwaysNullConverterFactory,retrofit.converter.java8,False,0.95,Class appears to be correctly placed,retrofit.converter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Java8OptionalConverterFactoryTest,Java8OptionalConverterFactoryTest,retrofit.converter.java8,False,0.95,Class appears to be correctly placed,retrofit.converter.java8,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit.converter.java8,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+JaxbConverterFactory,JaxbConverterFactory,retrofit2.converter.jaxb,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JaxbRequestConverter,JaxbRequestConverter,retrofit2.converter.jaxb,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JaxbResponseConverter,JaxbResponseConverter,retrofit2.converter.jaxb,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Contact,Contact,retrofit2.converter.jaxb,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JaxbConverterFactoryTest,JaxbConverterFactoryTest,retrofit2.converter.jaxb,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.converter.jaxb,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+PhoneNumber,PhoneNumber,retrofit2.converter.jaxb,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Type,Type,retrofit2.converter.jaxb,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JaxbConverterFactory,JaxbConverterFactory,retrofit2.converter.jaxb3,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JaxbRequestConverter,JaxbRequestConverter,retrofit2.converter.jaxb3,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JaxbResponseConverter,JaxbResponseConverter,retrofit2.converter.jaxb3,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Contact,Contact,retrofit2.converter.jaxb3,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JaxbConverterFactoryTest,JaxbConverterFactoryTest,retrofit2.converter.jaxb3,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.converter.jaxb3,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+PhoneNumber,PhoneNumber,retrofit2.converter.jaxb3,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Type,Type,retrofit2.converter.jaxb3,False,0.95,Class appears to be correctly placed,retrofit2.converter.jaxb3,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MoshiConverterFactory,MoshiConverterFactory,retrofit2.converter.moshi,False,0.95,Class appears to be correctly placed,retrofit2.converter.moshi,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MoshiRequestBodyConverter,MoshiRequestBodyConverter,retrofit2.converter.moshi,False,0.95,Class appears to be correctly placed,retrofit2.converter.moshi,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MoshiResponseBodyConverter,MoshiResponseBodyConverter,retrofit2.converter.moshi,False,0.95,Class appears to be correctly placed,retrofit2.converter.moshi,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MoshiStreamingRequestBody,MoshiStreamingRequestBody,retrofit2.converter.moshi,False,0.95,Class appears to be correctly placed,retrofit2.converter.moshi,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MoshiConverterFactoryTest,MoshiConverterFactoryTest,retrofit2.converter.moshi,False,0.95,Class appears to be correctly placed,retrofit2.converter.moshi,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Qualifier,Qualifier,retrofit2.converter.moshi,False,0.95,Class appears to be correctly placed,retrofit2.converter.moshi,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+NonQualifer,NonQualifer,retrofit2.converter.moshi,False,0.95,Class appears to be correctly placed,retrofit2.converter.moshi,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AnInterface,AnInterface,retrofit2.converter.moshi,False,0.95,Class appears to be correctly placed,retrofit2.converter.moshi,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AnImplementation,AnImplementation,retrofit2.converter.moshi,False,0.95,Class appears to be correctly placed,retrofit2.converter.moshi,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ErroringValue,ErroringValue,retrofit2.converter.moshi,False,0.95,Class appears to be correctly placed,retrofit2.converter.moshi,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Adapters,Adapters,retrofit2.converter.moshi,False,0.95,Class appears to be correctly placed,retrofit2.converter.moshi,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.converter.moshi,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ProtoConverterFactory,ProtoConverterFactory,retrofit2.converter.protobuf,False,0.95,Class appears to be correctly placed,retrofit2.converter.protobuf,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ProtoRequestBodyConverter,ProtoRequestBodyConverter,retrofit2.converter.protobuf,False,0.95,Class appears to be correctly placed,retrofit2.converter.protobuf,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ProtoResponseBodyConverter,ProtoResponseBodyConverter,retrofit2.converter.protobuf,False,0.95,Class appears to be correctly placed,retrofit2.converter.protobuf,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ProtoStreamingRequestBody,ProtoStreamingRequestBody,retrofit2.converter.protobuf,False,0.95,Class appears to be correctly placed,retrofit2.converter.protobuf,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+FallbackParserFinderTest,FallbackParserFinderTest,retrofit2.converter.protobuf,False,0.95,Class appears to be correctly placed,retrofit2.converter.protobuf,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+FakePhone,FakePhone,retrofit2.converter.protobuf,False,0.95,Class appears to be correctly placed,retrofit2.converter.protobuf,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ProtoConverterFactoryTest,ProtoConverterFactoryTest,retrofit2.converter.protobuf,False,0.95,Class appears to be correctly placed,retrofit2.converter.protobuf,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.converter.protobuf,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ServiceWithRegistry,ServiceWithRegistry,retrofit2.converter.protobuf,False,0.95,Class appears to be correctly placed,retrofit2.converter.protobuf,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2.converter.protobuf,False,0.95,Class appears to be correctly placed,retrofit2.converter.protobuf,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2.converter.protobuf,False,0.95,Class appears to be correctly placed,retrofit2.converter.protobuf,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ThrowingPhone,ThrowingPhone,retrofit2.converter.protobuf,False,0.95,Class appears to be correctly placed,retrofit2.converter.protobuf,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ScalarRequestBodyConverter,ScalarRequestBodyConverter,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ScalarResponseBodyConverters,ScalarResponseBodyConverters,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+StringResponseBodyConverter,StringResponseBodyConverter,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BooleanResponseBodyConverter,BooleanResponseBodyConverter,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ByteResponseBodyConverter,ByteResponseBodyConverter,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CharacterResponseBodyConverter,CharacterResponseBodyConverter,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DoubleResponseBodyConverter,DoubleResponseBodyConverter,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+FloatResponseBodyConverter,FloatResponseBodyConverter,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+IntegerResponseBodyConverter,IntegerResponseBodyConverter,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+LongResponseBodyConverter,LongResponseBodyConverter,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ShortResponseBodyConverter,ShortResponseBodyConverter,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ScalarsConverterFactory,ScalarsConverterFactory,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ScalarsConverterFactoryTest,ScalarsConverterFactoryTest,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.converter.scalars,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ScalarsConverterPrimitivesFactoryTest,ScalarsConverterPrimitivesFactoryTest,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.converter.scalars,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+DirectCallIOException,DirectCallIOException,retrofit2.converter.scalars,True,0.6000000000000001,Class name 'DirectCallIOException' suggests exception functionality,exception,Name matches exception pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+DirectCallAdapterFactory,DirectCallAdapterFactory,retrofit2.converter.scalars,False,0.95,Class appears to be correctly placed,retrofit2.converter.scalars,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+types,types,retrofit2.converter.simplexml,False,0.95,Class appears to be correctly placed,retrofit2.converter.simplexml,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SimpleXmlConverterFactory,SimpleXmlConverterFactory,retrofit2.converter.simplexml,False,0.95,Class appears to be correctly placed,retrofit2.converter.simplexml,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SimpleXmlRequestBodyConverter,SimpleXmlRequestBodyConverter,retrofit2.converter.simplexml,False,0.95,Class appears to be correctly placed,retrofit2.converter.simplexml,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SimpleXmlResponseBodyConverter,SimpleXmlResponseBodyConverter,retrofit2.converter.simplexml,False,0.95,Class appears to be correctly placed,retrofit2.converter.simplexml,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyObject,MyObject,retrofit2.converter.simplexml,False,0.95,Class appears to be correctly placed,retrofit2.converter.simplexml,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SimpleXmlConverterFactoryTest,SimpleXmlConverterFactoryTest,retrofit2.converter.simplexml,False,0.95,Class appears to be correctly placed,retrofit2.converter.simplexml,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.converter.simplexml,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+retrofit2,retrofit2,retrofit2.converter.simplexml,False,0.95,Class appears to be correctly placed,retrofit2.converter.simplexml,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2.converter.simplexml,False,0.95,Class appears to be correctly placed,retrofit2.converter.simplexml,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+WireConverterFactory,WireConverterFactory,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+WireRequestBodyConverter,WireRequestBodyConverter,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+WireResponseBodyConverter,WireResponseBodyConverter,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+WireStreamingRequestBody,WireStreamingRequestBody,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CrashingPhone,CrashingPhone,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Builder,Builder,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ProtoAdapter_CrashingPhone,ProtoAdapter_CrashingPhone,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Phone,Phone,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Builder,Builder,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ProtoAdapter_Phone,ProtoAdapter_Phone,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+WireConverterFactoryTest,WireConverterFactoryTest,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,retrofit2.converter.wire,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+java,java,retrofit2.converter.wire,False,0.95,Class appears to be correctly placed,retrofit2.converter.wire,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BehaviorCall,BehaviorCall,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BehaviorDelegate,BehaviorDelegate,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+proxy,proxy,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallParameterizedTypeImpl,CallParameterizedTypeImpl,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ServiceMethodAdapterInfo,ServiceMethodAdapterInfo,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Calls,Calls,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+FakeCall,FakeCall,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DeferredCall,DeferredCall,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MockRetrofit,MockRetrofit,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+proxy,proxy,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Builder,Builder,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MockRetrofitIOException,MockRetrofitIOException,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+models,models,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+with,with,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+will,will,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+NetworkBehavior,NetworkBehavior,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+BehaviorDelegateTest,BehaviorDelegateTest,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DoWorkService,DoWorkService,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+CallsTest,CallsTest,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MockRetrofitTest,MockRetrofitTest,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+NetworkBehaviorTest,NetworkBehaviorTest,retrofit2.mock,False,0.95,Class appears to be correctly placed,retrofit2.mock,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AnnotatedConverters,AnnotatedConverters,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+AnnotatedConverterFactory,AnnotatedConverterFactory,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Builder,Builder,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Moshi,Moshi,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Gson,Gson,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SimpleXml,SimpleXml,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Library,Library,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,com.example.retrofit,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+ChunkingConverter,ChunkingConverter,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Chunked,Chunked,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ChunkingConverterFactory,ChunkingConverterFactory,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Repo,Repo,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,com.example.retrofit,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+Crawler,Crawler,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+PageService,PageService,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Page,Page,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+PageAdapter,PageAdapter,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DeserializeErrorBody,DeserializeErrorBody,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,com.example.retrofit,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+User,User,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ErrorBody,ErrorBody,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DynamicBaseUrl,DynamicBaseUrl,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Pop,Pop,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HostSelectionInterceptor,HostSelectionInterceptor,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ErrorHandlingAdapter,ErrorHandlingAdapter,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyCallback,MyCallback,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyCall,MyCall,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ErrorHandlingCallAdapterFactory,ErrorHandlingCallAdapterFactory,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ErrorHandlingCallAdapter,ErrorHandlingCallAdapter,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MyCallAdapter,MyCallAdapter,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+HttpBinService,HttpBinService,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Ip,Ip,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+InvocationMetrics,InvocationMetrics,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Browse,Browse,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+InvocationLogger,InvocationLogger,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JsonAndXmlConverters,JsonAndXmlConverters,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Json,Json,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Xml,Xml,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+QualifiedTypeConverterFactory,QualifiedTypeConverterFactory,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+User,User,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,com.example.retrofit,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+JsonQueryParameters,JsonQueryParameters,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Json,Json,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+JsonStringConverterFactory,JsonStringConverterFactory,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+DelegateToStringConverter,DelegateToStringConverter,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Filter,Filter,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Service,Service,com.example.retrofit,True,0.6000000000000001,Class name 'Service' suggests service functionality,service,Name matches service pattern,rule-based + semantic analysis,22.96,2025-08-10T01:06:11.094019
+RxJavaObserveOnMainThread,RxJavaObserveOnMainThread,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+ObserveOnMainCallAdapterFactory,ObserveOnMainCallAdapterFactory,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SimpleMockService,SimpleMockService,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+MockGitHub,MockGitHub,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+SimpleService,SimpleService,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+Contributor,Contributor,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
+GitHub,GitHub,com.example.retrofit,False,0.95,Class appears to be correctly placed,com.example.retrofit,No misplacement indicators found,llm+embedding,22.96,2025-08-10T01:06:11.094019
